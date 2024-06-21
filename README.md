@@ -3,7 +3,7 @@ Trabajo Final Integrador
 # Sistema de Gestión de Bibliotecas
 
 
-![Descripción de la imagen](https://ar.images.search.yahoo.com/images/view;_ylt=AwrNYt3z13RmLhIWx42t9Qt.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2Y1ZjhkN2RlMDIxZTE2YzJkZTZkOWI0MjcyYjBmYzU0BGdwb3MDMwRpdANiaW5n?back=https%3A%2F%2Far.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dimagen%2Bde%2Buna%2Bbiblioteca%2Bvirtual%26type%3DE210AR91215G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D3&w=800&h=500&imgurl=estudiantes.ucontinental.edu.pe%2Fwp-content%2Fuploads%2F2019%2F01%2Fbiblioteca-virtual-3.jpg&rurl=https%3A%2F%2Festudiantes.ucontinental.edu.pe%2Fservicios%2Fbiblioteca-virtual%2F&size=74.6KB&p=imagen+de+una+biblioteca+virtual&oid=f5f8d7de021e16c2de6d9b4272b0fc54&fr2=piv-web&fr=mcafee&tt=Biblioteca+Virtual+%E2%80%93+Portal+del+Estudiante+de+la+Universidad+Continental&b=0&ni=21&no=3&ts=&tab=organic&sigr=q.qimh6YjIDq&sigb=5XVci7.zfSTX&sigi=MJ1TTUcGvUzj&sigt=KoHXrTQurldY&.crumb=Vpw4vpGK8Ns&fr=mcafee&fr2=piv-web&type=E210AR91215G0)
+![Descripción de la imagen](https://estudiantes.ucontinental.edu.pe/wp-content/uploads/2019/01/biblioteca-virtual-3.jpg)
 
 ## Descripción
 Este proyecto es una solución de software para gestionar el préstamo y devolución de libros en una biblioteca. Fue desarrollado como parte del trabajo integrador final por un equipo de 4 estudiantes de la UTN-FRSR.
@@ -54,7 +54,3 @@ Desarrollar una solución de software que permita:
   - Generar reportes de préstamos y devoluciones por socio, libro y rango de fechas.
 - Funcionalidad extra a criterio del grupo.
 
-## Instalación
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/usuario/SistemaGestionBibliotecas.git
