@@ -3,7 +3,7 @@ Trabajo Final Integrador
 # Sistema de Gestión de Bibliotecas
 
 
-![Descripción de la imagen](https://estudiantes.ucontinental.edu.pe/wp-content/uploads/2019/01/biblioteca-virtual-3.jpg)
+![Biblioteca Virtual](https://estudiantes.ucontinental.edu.pe/wp-content/uploads/2019/01/biblioteca-virtual-3.jpg)
 
 ## Descripción
 Este proyecto es una solución de software para gestionar el préstamo y devolución de libros en una biblioteca. Fue desarrollado como parte del trabajo integrador final por un equipo de 4 estudiantes de la UTN-FRSR.
