@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "titulo": "Cien A\u00f1os de Soledad",
+        "autor": "Gabriel Garcia Marquez ",
+        "editorial": "Sudamerica",
+        "anio_publicacion": "1967",
+        "genero": "Novela",
+        "cantidad_disponible": 15
+    }
+]

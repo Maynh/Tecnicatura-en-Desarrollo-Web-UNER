@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "nombre": "Carlos",
+        "apellido": "Lopez",
+        "fecha_nacimiento": "1980-03-25",
+        "direccion": "Calle 9 de Julio 456",
+        "correo_electronico": "carlos.lopez@example.com",
+        "telefono": "456-7899"
+    }
+]
