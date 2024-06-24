@@ -1,11 +1,20 @@
 [
     {
         "id": 1,
-        "nombre": "Carlos",
-        "apellido": "Lopez",
+        "nombre": "Juan ",
+        "apellido": "Perez ",
         "fecha_nacimiento": "1980-03-25",
         "direccion": "Calle 9 de Julio 456",
         "correo_electronico": "carlos.lopez@example.com",
-        "telefono": "456-7899"
+        "telefono": "456-7890"
+    },
+    {
+        "id": 2,
+        "nombre": "Ana ",
+        "apellido": "Martinez ",
+        "fecha_nacimiento": "1990-11-15",
+        "direccion": "Avenida Corrientes 1234",
+        "correo_electronico": "ana.martinez@example.com",
+        "telefono": "123-9876"
     }
 ]

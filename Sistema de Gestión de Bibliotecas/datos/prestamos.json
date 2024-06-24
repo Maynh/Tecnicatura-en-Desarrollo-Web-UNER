@@ -3,9 +3,9 @@
         "id": 1,
         "id_socio": 1,
         "id_libro": 1,
-        "fecha_prestamo": "2024-06-23",
-        "costo": "sin costo",
-        "fecha_devolucion": null,
+        "fecha_prestamo": "2024-06-24",
+        "costo": null,
+        "fecha_devolucion": "2024-07-09",
         "estado": "En Curso"
     }
 ]
