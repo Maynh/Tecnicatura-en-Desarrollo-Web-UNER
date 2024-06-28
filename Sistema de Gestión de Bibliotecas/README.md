@@ -1,6 +1,9 @@
 # Tecnicatura-en-Desarrollo-Web-UNER
 Trabajo Final Integrador
 # Sistema de Gestión de Bibliotecas
+# Instalar dependencias desde requirements.txt:
+# pip install -r requirements.txt
+
 
 
 ![Biblioteca Virtual](https://eservicioseducativos.com/wp-content/uploads/2021/04/bibliotecas-digitales1.jpg)
