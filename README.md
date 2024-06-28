@@ -1,6 +1,8 @@
 # Tecnicatura-en-Desarrollo-Web-UNER
 Trabajo Final Integrador
 # Sistema de Gestión de Bibliotecas
+#Instalar dependencias desde requirements.txt:
+** pip install -r requirements.txt **
 
 
 ![Imagen Ilustrativa](https://tse1.mm.bing.net/th?id=OIP.fuDP6q84rZ-qcI86jaRgNQHaEo&pid=Api&P=0&h=180)
