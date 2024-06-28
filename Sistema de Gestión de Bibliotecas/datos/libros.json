@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "titulo": "Cien A\u00f1os de Soledad",
+        "titulo": "Cien Anios de Soledad ",
         "autor": "Gabriel Garcia Maqruez ",
         "editorial": "Sudamericana ",
         "anio_publicacion": "1967",
@@ -25,5 +25,23 @@
         "anio_publicacion": "1813",
         "genero": "Romane ",
         "cantidad_disponible": 7
+    },
+    {
+        "id": 4,
+        "titulo": "El Hobbit ",
+        "autor": "J.R.R Tolkein ",
+        "editorial": "George Allen ",
+        "anio_publicacion": "1937",
+        "genero": "Fantasia ",
+        "cantidad_disponible": 7
+    },
+    {
+        "id": 5,
+        "titulo": "1984",
+        "autor": "George Orwel",
+        "editorial": "Secker & Warburg ",
+        "anio_publicacion": "1949",
+        "genero": "Distopia ",
+        "cantidad_disponible": 8
     }
 ]

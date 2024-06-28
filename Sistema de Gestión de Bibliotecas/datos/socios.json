@@ -25,5 +25,23 @@
         "direccion": "Buenos Aires - Ciudadela - Aianza 780",
         "correo_electronico": "taoufik@exammple.com",
         "telefono": "451234569"
+    },
+    {
+        "id": 4,
+        "nombre": "Karima",
+        "apellido": "Gonzalez",
+        "fecha_nacimiento": "1990-05-30",
+        "direccion": "Entre Rios - Alianza 8000",
+        "correo_electronico": "karima@example.com",
+        "telefono": "45213698745"
+    },
+    {
+        "id": 5,
+        "nombre": "Julieta ",
+        "apellido": "Fernandez ",
+        "fecha_nacimiento": "1991-03-26",
+        "direccion": "Santa Fe - Calle Diaz velez -500",
+        "correo_electronico": "Julieta@example.com",
+        "telefono": "453621875"
     }
 ]

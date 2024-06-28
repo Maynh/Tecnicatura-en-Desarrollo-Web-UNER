@@ -16,5 +16,23 @@
         "costo": null,
         "fecha_devolucion": "2024-06-27",
         "estado": "Devuelto"
+    },
+    {
+        "id": 3,
+        "id_socio": 4,
+        "id_libro": 3,
+        "fecha_prestamo": "2024-06-27",
+        "costo": null,
+        "fecha_devolucion": "2024-06-27",
+        "estado": "Devuelto"
+    },
+    {
+        "id": 4,
+        "id_socio": 5,
+        "id_libro": 3,
+        "fecha_prestamo": "2024-06-27",
+        "costo": null,
+        "fecha_devolucion": "2024-06-27",
+        "estado": "Devuelto"
     }
 ]
