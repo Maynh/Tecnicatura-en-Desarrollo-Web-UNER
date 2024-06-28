@@ -16,5 +16,14 @@
         "direccion": "Avenida Corrientes 1234",
         "correo_electronico": "ana.martinez@example.com",
         "telefono": "123-9876"
+    },
+    {
+        "id": 3,
+        "nombre": "Taoufik",
+        "apellido": "Saidi",
+        "fecha_nacimiento": "2000-03-25",
+        "direccion": "Buenos Aires - Ciudadela - Aianza 780",
+        "correo_electronico": "taoufik@exammple.com",
+        "telefono": "451234569"
     }
 ]

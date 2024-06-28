@@ -16,5 +16,14 @@
         "anio_publicacion": "1605",
         "genero": "Novela ",
         "cantidad_disponible": 200
+    },
+    {
+        "id": 3,
+        "titulo": "Orgullo y prejuicio ",
+        "autor": "Jane Austen ",
+        "editorial": "T.Egerton ",
+        "anio_publicacion": "1813",
+        "genero": "Romane ",
+        "cantidad_disponible": 7
     }
 ]

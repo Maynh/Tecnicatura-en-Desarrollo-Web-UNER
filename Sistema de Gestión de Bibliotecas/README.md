@@ -4,7 +4,11 @@ Trabajo Final Integrador
 
 
 ![Biblioteca Virtual](https://eservicioseducativos.com/wp-content/uploads/2021/04/bibliotecas-digitales1.jpg)
-
+# Equipo de Desarrollo: Estudiantes de la UTN-FRSR
+- **Roveres Julieta**
+- **Anabella Broese**
+- **Medina Mayra**
+- **Saidi Taoufik**
 ## Descripción
 Este proyecto es una solución de software para gestionar el préstamo y devolución de libros en una biblioteca. Fue desarrollado como parte del trabajo integrador final por un equipo de 4 estudiantes de la UTN-FRSR.
 
@@ -54,3 +58,18 @@ Desarrollar una solución de software que permita:
   - Generar reportes de préstamos y devoluciones por socio, libro y rango de fechas.
 - Funcionalidad extra a criterio del grupo.
 
+- **Nuevas Funcionalidades**:
+- Generar_reporte_por_socio_pdf(id_socio): Genera un reporte en PDF de los préstamos de un socio específico.
+- Generar_reporte_por_libro_pdf(id_libro): Genera un reporte en PDF de los préstamos de un libro específico.
+- Generar_reporte_todos_socios_pdf(): Genera un reporte en PDF de todos los socios registrados.
+- Generar_reporte_todos_libros_pdf(): Genera un reporte en PDF de todos los libros disponibles en la biblioteca.
+
+
+## Requisitos del Sistema
+
+- Python 3.7 o superior.
+- Librerías de Python:
+  - `json`
+  - `os` 
+  - `datetime` 
+  - `reportlab` (para generar reportes en PDF)

@@ -1,6 +1,6 @@
 from modulos_gestion.libros import registrar_libro, editar_libro, eliminar_libro, buscar_libro_por_id
 from modulos_gestion.socios import registrar_socio, editar_socio, eliminar_socio, buscar_socio
-from modulos_gestion.prestamos import registrar_prestamo, registrar_devolucion, generar_reporte_por_socio, generar_reporte_por_libro, generar_reporte_por_fecha
+from modulos_gestion.prestamos import registrar_prestamo, registrar_devolucion, generar_reporte_por_socio, generar_reporte_por_libro, generar_reporte_por_fecha, generar_reporte_por_socio_pdf, generar_reporte_por_libro_pdf, generar_reporte_todos_socios_pdf, generar_reporte_todos_libros_pdf
 
 def menu():
     print("********* \U0001F4DA Bienvenido al Sistema de Gestión de Bibliotecas \U0001F4DA *********")
@@ -18,6 +18,10 @@ def menu():
     print('11: \U0001F4CA Generar Reporte de Préstamos por Socio')
     print('12: \U0001F4CA Generar Reporte de Préstamos por Libro')
     print('13: \U0001F4CA Generar Reporte de Préstamos por Fecha')
+    print('14: \U0001F4CA Generar Reporte de Préstamos por Socio en PDF')
+    print('15: \U0001F4CA Generar Reporte de Préstamos por Libro en PDF')
+    print('16: \U0001F4CA Generar Reporte de Todos los Socios en PDF')
+    print('17: \U0001F4CA Generar Reporte de Todos los Libros en PDF')
     print('0: \U0001F6AA Confirmar Y Salir')
     while True:
         try:
@@ -128,6 +132,26 @@ def main():
             fecha_inicio = input('Fecha de inicio (YYYY-MM-DD): ')
             fecha_fin = input('Fecha de fin (YYYY-MM-DD): ')
             generar_reporte_por_fecha(fecha_inicio, fecha_fin)
+        elif opcion == 14:
+            while True:
+                try:
+                    id_socio = int(input('ID de Socio: '))
+                    break
+                except ValueError:
+                    print("\U000026A0\U0000FE0F Error: Por favor, ingrese un número válido para el ID de Socio.")
+            generar_reporte_por_socio_pdf(id_socio)
+        elif opcion == 15:
+            while True:
+                try:
+                    id_libro = int(input('ID de Libro: '))
+                    break
+                except ValueError:
+                    print("\U000026A0\U0000FE0F Error: Por favor, ingrese un número válido para el ID de Libro.")
+            generar_reporte_por_libro_pdf(id_libro)
+        elif opcion == 16:
+            generar_reporte_todos_socios_pdf()
+        elif opcion == 17:
+            generar_reporte_todos_libros_pdf()
         elif opcion == 0:
             print("\U0001F44B Adiós! Gracias por usar el Sistema de Gestión de Bibliotecas.")
             break
@@ -136,6 +160,9 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+
 
 
 
