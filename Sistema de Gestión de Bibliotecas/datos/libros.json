@@ -1,14 +1,5 @@
 [
     {
-        "id": 1,
-        "titulo": "Cien Anios de Soledad ",
-        "autor": "Gabriel Garcia Maqruez ",
-        "editorial": "Sudamericana ",
-        "anio_publicacion": "1967",
-        "genero": "Novela ",
-        "cantidad_disponible": 200
-    },
-    {
         "id": 2,
         "titulo": "Don Quijote de la Mancha ",
         "autor": "Miguel de Cervantes ",
@@ -43,5 +34,32 @@
         "anio_publicacion": "1949",
         "genero": "Distopia ",
         "cantidad_disponible": 8
+    },
+    {
+        "id": 6,
+        "titulo": "100 a\u00f1os de soledad",
+        "autor": "Gabriel Garia Marquez",
+        "editorial": "Sudamericana",
+        "anio_publicacion": "1967",
+        "genero": "ki",
+        "cantidad_disponible": 6
+    },
+    {
+        "id": 7,
+        "titulo": "100 a\u00f1os de Soledad",
+        "autor": "Gabriel Garcia Marquez",
+        "editorial": "SUdamericana",
+        "anio_publicacion": "1967",
+        "genero": "Realismo magico",
+        "cantidad_disponible": 4
+    },
+    {
+        "id": 8,
+        "titulo": "199 a\u00f1os de Soledad",
+        "autor": "Gabriel Garcia Marquez",
+        "editorial": "Sudamericana",
+        "anio_publicacion": "1967",
+        "genero": "Realismo magico",
+        "cantidad_disponible": 6
     }
 ]
